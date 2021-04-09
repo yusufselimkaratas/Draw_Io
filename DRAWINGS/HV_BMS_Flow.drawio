@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T11:02:45.117Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="HZQRCUerXbxU-FiFgtS4" version="14.5.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-09T11:03:17.979Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="ZkXARQhrimzSMNmJg2Ft" version="14.5.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2334" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -370,7 +370,7 @@
             <mxPoint x="1960" y="764" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tb_iwrgmpNeFT452qtZq-342" value="LOAD" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="tb_iwrgmpNeFT452qtZq-1">
+        <mxCell id="tb_iwrgmpNeFT452qtZq-342" value="LOAD" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="tb_iwrgmpNeFT452qtZq-1">
           <mxGeometry x="2620" y="415" width="630" height="320" as="geometry" />
         </mxCell>
         <mxCell id="tb_iwrgmpNeFT452qtZq-348" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#00CC00;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="tb_iwrgmpNeFT452qtZq-1" source="tb_iwrgmpNeFT452qtZq-343" target="tb_iwrgmpNeFT452qtZq-345">
@@ -391,7 +391,7 @@
         <mxCell id="tb_iwrgmpNeFT452qtZq-346" value="M" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=ellipse;aspect=fixed;fontSize=35;fillColor=none;" vertex="1" parent="tb_iwrgmpNeFT452qtZq-1">
           <mxGeometry x="3150" y="533" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tb_iwrgmpNeFT452qtZq-347" value="AC CHARGER" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="tb_iwrgmpNeFT452qtZq-1">
+        <mxCell id="tb_iwrgmpNeFT452qtZq-347" value="AC CHARGER" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="tb_iwrgmpNeFT452qtZq-1">
           <mxGeometry x="2620" y="834" width="630" height="320" as="geometry" />
         </mxCell>
         <mxCell id="tb_iwrgmpNeFT452qtZq-357" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#00CC00;strokeWidth=3;" edge="1" parent="tb_iwrgmpNeFT452qtZq-1" source="tb_iwrgmpNeFT452qtZq-349" target="tb_iwrgmpNeFT452qtZq-343">
@@ -400,7 +400,7 @@
         <mxCell id="tb_iwrgmpNeFT452qtZq-349" value="CAN" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="tb_iwrgmpNeFT452qtZq-1">
           <mxGeometry x="2620" y="904" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tb_iwrgmpNeFT452qtZq-350" value="DC CHARGER" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="tb_iwrgmpNeFT452qtZq-1">
+        <mxCell id="tb_iwrgmpNeFT452qtZq-350" value="DC CHARGER" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="tb_iwrgmpNeFT452qtZq-1">
           <mxGeometry x="2620" y="1264" width="630" height="320" as="geometry" />
         </mxCell>
         <mxCell id="tb_iwrgmpNeFT452qtZq-358" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#00CC00;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tb_iwrgmpNeFT452qtZq-1" source="tb_iwrgmpNeFT452qtZq-351" target="tb_iwrgmpNeFT452qtZq-343">
@@ -411,7 +411,7 @@
         <mxCell id="tb_iwrgmpNeFT452qtZq-351" value="CAN" style="rounded=1;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="tb_iwrgmpNeFT452qtZq-1">
           <mxGeometry x="2620" y="1334" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tb_iwrgmpNeFT452qtZq-352" value="VEHICLE CONTROL UNIT" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="tb_iwrgmpNeFT452qtZq-1">
+        <mxCell id="tb_iwrgmpNeFT452qtZq-352" value="VEHICLE CONTROL UNIT" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="tb_iwrgmpNeFT452qtZq-1">
           <mxGeometry x="2610" width="630" height="320" as="geometry" />
         </mxCell>
         <mxCell id="tb_iwrgmpNeFT452qtZq-356" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;strokeColor=#00CC00;" edge="1" parent="tb_iwrgmpNeFT452qtZq-1" source="tb_iwrgmpNeFT452qtZq-355">
